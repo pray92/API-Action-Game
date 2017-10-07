@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="StateObj">
+      <UniqueIdentifier>{b3ab0b69-8a30-4fa7-b392-4a93ff9d99f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StateObj\Stage1">
+      <UniqueIdentifier>{35583c32-1c33-42c2-a2f4-76ab91e77ac2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StateObj\Stage2">
+      <UniqueIdentifier>{4f5ce0d6-ce4d-48d3-8727-c578d13d1d35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StateObj\Logo">
+      <UniqueIdentifier>{928b941e-f876-499e-bab3-b8eec4e56400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.MainGame">
+      <UniqueIdentifier>{f8e9f035-296a-4e4c-9128-b5d3e660b4ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.BitMap">
+      <UniqueIdentifier>{fb71f3d6-ff42-4dcb-be96-1285a2a836ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object">
+      <UniqueIdentifier>{e4775379-5e49-4d03-97ca-dc9e642b4b0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Player">
+      <UniqueIdentifier>{1d089d2e-d236-4450-b501-a563d1444cc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Button">
+      <UniqueIdentifier>{041b0c39-4d7e-42fd-ab74-0a73c9754c55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Include">
+      <UniqueIdentifier>{d762b675-6b26-414a-afba-f9b09c658155}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager">
+      <UniqueIdentifier>{812ab8a5-8c7f-431b-97ec-132152f2a7f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager\StageManager">
+      <UniqueIdentifier>{cc79c673-9cdf-437e-890e-3d5f69230af4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager\Mouse">
+      <UniqueIdentifier>{972fa323-a8ce-4b07-8026-52d89dbd3f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.Design">
+      <UniqueIdentifier>{e61a1dff-9e05-4d75-a119-bbf81b2ca6ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager\KeyManager">
+      <UniqueIdentifier>{385ea9e2-e576-473f-96f9-04bd419abf28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Monster">
+      <UniqueIdentifier>{b893495e-dc85-417d-8d8b-971085f1861d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager\MathMgr">
+      <UniqueIdentifier>{4e18ffd7-8d21-4565-9384-dc7a5914d321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager\ObjManager">
+      <UniqueIdentifier>{289be38f-8a08-4160-b694-01a6b9d353aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Tile">
+      <UniqueIdentifier>{4c7292b7-1ceb-48e9-b5e0-26913e9eb727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Background">
+      <UniqueIdentifier>{b21e2a05-3ed2-492d-a7a6-243fb7f6414f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Bullet">
+      <UniqueIdentifier>{b0816584-4684-4d9a-a384-5474bcf7a7b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager\CollisionManager">
+      <UniqueIdentifier>{df99ed8f-4ad0-4575-939b-ed8a1471a212}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StateObj\Village">
+      <UniqueIdentifier>{3a12f495-8e27-49a7-9a7e-17d642bc653f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Boss">
+      <UniqueIdentifier>{81cf67d6-24f7-4157-a369-5dfeea77044a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Obstacle">
+      <UniqueIdentifier>{3f386bd3-dd74-49b9-989f-4ec55df12926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Object\Damaged">
+      <UniqueIdentifier>{a1a04bde-d10c-418b-ac4b-63f26e3980b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.Manager\Sound">
+      <UniqueIdentifier>{72aec7f2-a015-4a9d-88e5-eadbeb28082d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="150915 Ga.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="150915 Ga.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>0.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>1.Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>1.Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="StateObj.h">
+      <Filter>StateObj</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1.h">
+      <Filter>StateObj\Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2.h">
+      <Filter>StateObj\Stage2</Filter>
+    </ClInclude>
+    <ClInclude Include="StageMgr.h">
+      <Filter>3.Manager\StageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="BitMap.h">
+      <Filter>2.BitMap</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>StateObj\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="MyButton.h">
+      <Filter>1.Object\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
+      <Filter>헤더 파일\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>3.Manager\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>3.Manager\KeyManager</Filter>
+    </ClInclude>
+    <ClInclude Include="value.h">
+      <Filter>헤더 파일\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjFactory.h">
+      <Filter>4.Design</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>1.Object\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="MathMgr.h">
+      <Filter>3.Manager\MathMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>3.Manager\ObjManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>1.Object\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>1.Object\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>1.Object\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>3.Manager\CollisionManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Village.h">
+      <Filter>StateObj\Village</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>1.Object\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle.h">
+      <Filter>1.Object\Obstacle</Filter>
+    </ClInclude>
+    <ClInclude Include="Damaged.h">
+      <Filter>1.Object\Damaged</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>3.Manager\Sound</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="150915 Ga.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>0.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>1.Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>1.Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="StateObj.cpp">
+      <Filter>StateObj</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1.cpp">
+      <Filter>StateObj\Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2.cpp">
+      <Filter>StateObj\Stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="StageMgr.cpp">
+      <Filter>3.Manager\StageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BitMap.cpp">
+      <Filter>2.BitMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>StateObj\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="MyButton.cpp">
+      <Filter>1.Object\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>3.Manager\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>3.Manager\KeyManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>1.Object\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="MathMgr.cpp">
+      <Filter>3.Manager\MathMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>3.Manager\ObjManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>1.Object\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>1.Object\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>1.Object\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>3.Manager\CollisionManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Village.cpp">
+      <Filter>StateObj\Village</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>1.Object\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle.cpp">
+      <Filter>1.Object\Obstacle</Filter>
+    </ClCompile>
+    <ClCompile Include="Damaged.cpp">
+      <Filter>1.Object\Damaged</Filter>
+    </ClCompile>
+    <ClCompile Include="Device.cpp">
+      <Filter>3.Manager\Sound</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="150915 Ga.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

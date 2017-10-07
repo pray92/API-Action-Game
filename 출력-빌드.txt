@@ -1,0 +1,32 @@
+﻿1>------ 빌드 시작: 프로젝트: FrameWork7, 구성: Debug Win32 ------
+1>빌드 시작: 2015-09-27 오후 10:23:57
+1>InitializeBuildStatus:
+1>  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\FrameWork7.unsuccessfulbuild"을(를) 만들고 있습니다.
+1>ClCompile:
+1>  모든 출력이 최신 상태입니다.
+1>  Player.cpp
+1>d:\project\api project\150915 ga\mathmgr.h(15): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>d:\project\api project\150915 ga\mathmgr.h(34): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>d:\project\api project\150915 ga\player.cpp(76): warning C4244: '인수' : 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>d:\project\api project\150915 ga\player.cpp(76): warning C4244: '인수' : 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>d:\project\api project\150915 ga\player.cpp(77): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>d:\project\api project\150915 ga\player.cpp(77): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>d:\project\api project\150915 ga\player.cpp(85): warning C4244: '인수' : 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>d:\project\api project\150915 ga\player.cpp(85): warning C4244: '인수' : 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>ResourceCompile:
+1>  모든 출력이 최신 상태입니다.
+1>ManifestResourceCompile:
+1>  모든 출력이 최신 상태입니다.
+1>Manifest:
+1>  모든 출력이 최신 상태입니다.
+1>LinkEmbedManifest:
+1>  모든 출력이 최신 상태입니다.
+1>  150915 Ga.vcxproj -> D:\Project\API Project\Debug\FrameWork7.exe
+1>FinalizeBuildStatus:
+1>  "Debug\FrameWork7.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+1>  "Debug\FrameWork7.lastbuildstate"에 연결(touching)하고 있습니다.
+1>
+1>빌드했습니다.
+1>
+1>경과 시간: 00:00:00.57
+========== 빌드: 성공 1, 실패 0, 최신 0, 생략 0 ==========
